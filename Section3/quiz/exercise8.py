@@ -1,0 +1,1 @@
+print(bool("Python 3") and not(23 == 23))
